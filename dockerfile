@@ -1,4 +1,4 @@
-FROM centos:7
+FROM ubuntu:14.04
 USER root
 
 ENV HOME=/root
